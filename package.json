@@ -1,0 +1,16 @@
+{
+  "name": "dgg-unlocked",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "firefox": "cd extension && zip -r ../dgg-unlocked.xpi *"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rome": "^12.1.3"
+  }
+}
